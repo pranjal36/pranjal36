@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**pranjal36/pranjal36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Pranjal Gupta
+[![Twitter Badge](https://img.shields.io/badge/-Pranjal_Gupta-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Mr_Guptajii)](https://twitter.com/Mr_Guptajii)  [![Linkedin Badge](https://img.shields.io/badge/-Pranjal_Gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mr-guptaji//)](https://www.linkedin.com/in/mr-guptaji/) [![Gmail Badge](https://img.shields.io/badge/-pranjalgupta362@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pranjalgupta362@gmail.com)](mailto:pranjalgupta362@gmail.com)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### About 📌
 
-Here are some ideas to get you started:
+### ✔  **Domain :** Full-Stack Web Development 💻 | Machine Learning 🤖
+### ✔  **Skills :** Javascript, Python, PHP, Mysql, C++, Java
+### ✔  **Learning :** MongoDB, Express, React and Node.js
+### ✔  **Hobbies :** Swimming 🏊‍♂️, 8 Ball Pool 🎱, Badminton 🏸, Music 🎧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Contributing to Open-Source 🔥
