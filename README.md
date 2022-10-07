@@ -13,6 +13,6 @@
 
 ## Contributing to Open-Source 🔥
 
-<p align="center">
+<p align="left">
   <img alt="Pranjal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pranjal36&show_icons=true&theme=radical">
 </p>
